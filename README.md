@@ -6,3 +6,6 @@
   * 轮播图、搜索、评论、回复、点赞、推荐阅读、头像上传、消息提醒、历史记录
 * 实现技术：
   * javascript、jQuery、css、html
+
+[在线演示](http://loisluo.com/jiemian)  
+----
